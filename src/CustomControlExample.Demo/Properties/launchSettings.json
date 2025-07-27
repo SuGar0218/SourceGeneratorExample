@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CustomControlExample.Demo (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "CustomControlExample.Demo (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
